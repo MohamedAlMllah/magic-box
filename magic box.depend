@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555062256 source:f:\terrpo\iti\magic box\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
